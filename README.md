@@ -1,7 +1,7 @@
 <h1 align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" 
        alt="AWS" width="60" style="vertical-align:middle; margin-right:10px;">
-  WordPress em Alta Disponibilidade na AWS
+   WordPress em Alta Disponibilidade na AWS
 </h1>
 
 
