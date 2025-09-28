@@ -1,4 +1,9 @@
-# 🌐 WordPress em Alta Disponibilidade na AWS  
+<h1 align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" 
+       alt="AWS" width="60" style="vertical-align:middle; margin-right:10px;">
+  WordPress em Alta Disponibilidade na AWS
+</h1>
+
 
 ![AWS](https://img.shields.io/badge/AWS-EC2%20%7C%20RDS%20%7C%20EFS%20%7C%20ALB-orange?logo=amazon-aws&logoColor=white)  ![Docker](https://img.shields.io/badge/Docker-Containers-blue?logo=docker&logoColor=white)  ![WordPress](https://img.shields.io/badge/WordPress-CMS-blue?logo=wordpress&logoColor=white)  ![MySQL](https://img.shields.io/badge/Database-MySQL-blue?logo=mysql&logoColor=white)  ![Security](https://img.shields.io/badge/Security-SG%20Rules-red)  
 
@@ -317,7 +322,6 @@ Pontos importantes:
 - ✅ Banco de dados persistente no **RDS**  
 - ✅ Uploads compartilhados no **EFS**  
 - ✅ Escalabilidade garantida pelo **ASG**  
-- ✅ Alta disponibilidade em múltiplas AZs  
 
 ---
 ![Status](https://img.shields.io/badge/status-active-brightgreen?style=flat-square)
