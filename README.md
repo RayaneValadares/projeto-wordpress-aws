@@ -131,19 +131,19 @@ Pontos importantes:
 
   1- Criando o Launch Template
 
-      - Em EC2, vá até Launch Templates
+    - Em EC2, vá até Launch Templates
 
-      - Clique em Create launch template
+    - Clique em Create launch template
 
-      - Defina um nome sugestivo
+    - Defina um nome sugestivo
 
-      - (Opcional) Adicione uma descrição
+    - (Opcional) Adicione uma descrição
 
   2- Configurações principais
 
-      - AMI → vá em Quick Start e selecione:
-      - Amazon Linux 2023 kernel-6.12 AMI (arquitetura x86_64)
-      - Instance type → escolha t3.micro
+  - AMI → vá em Quick Start e selecione:
+    - Amazon Linux 2023 kernel-6.12 AMI (arquitetura x86_64)
+    - Instance type → escolha t3.micro
 
   - Key pair →
 
@@ -159,14 +159,14 @@ Pontos importantes:
 
   3- Rede e Segurança
 
-      - Em Network settings, deixe as subnets em branco
+    - Em Network settings, deixe as subnets em branco
 
-      - Associe o Security Group criado para EC2
+    - Associe o Security Group criado para EC2
       (ou crie um novo seguindo os mesmos critérios de entrada e saída)
 
   4- Tags
 
-      - Em Resource tags, adicione as tags necessárias (ex: projeto, ambiente, dono)
+    - Em Resource tags, adicione as tags necessárias (ex: projeto, ambiente, dono)
 
   5- User Data (Script de inicialização)
 
@@ -307,6 +307,13 @@ Pontos importantes:
 
 ---
 
-📅 **Última atualização**: 28/09/2025  
-👨‍💻 **Desenvolvido por**: Rayane Vitória Valadares  
-🏷️ **Versão**: 1.0.0  
+---
+✨ Projeto em constante evolução   
+🔧 Mantido por **Rayane Vitória Valadares**  
+📌 Versão atual: **1.1.1**  
+
+---
+![Status](https://img.shields.io/badge/status-active-brightgreen?style=flat-square)
+![Version](https://img.shields.io/badge/version-1.1.1-blue?style=flat-square)
+![Maintainer](https://img.shields.io/badge/maintainer-Rayane%20Vitória%20Valadares-purple?style=flat-square)
+
