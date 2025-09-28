@@ -306,13 +306,6 @@ Pontos importantes:
 - ✅ Alta disponibilidade em múltiplas AZs  
 
 ---
-
----
-✨ Projeto em constante evolução   
-🔧 Mantido por **Rayane Vitória Valadares**  
-📌 Versão atual: **1.1.1**  
-
----
 ![Status](https://img.shields.io/badge/status-active-brightgreen?style=flat-square)
 ![Version](https://img.shields.io/badge/version-1.1.1-blue?style=flat-square)
 ![Maintainer](https://img.shields.io/badge/maintainer-Rayane%20Vitória%20Valadares-purple?style=flat-square)
